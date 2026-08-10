@@ -1,0 +1,2 @@
+# Cisco Packet Tracer - MultiSite Network
+Multi-site enterprise network design and implementation for COMP2270  (Networking and Cloud Computing) at Macquarie University.   Built using Cisco Packet Tracer — features a 3-router triangle core,  7 branch sites, VLSM subnetting of 172.31.0.0/19 into 13 subnets,  static routing, and full end-to-end connectivity across all sites  and a centralised Data Centre.  Tech: Cisco IOS | Packet Tracer | VLSM | Static Routing | IPv4
